@@ -79,10 +79,10 @@
               <name>maven-snapshots</name>
                   <url>http://137.117.88.166:8081/repository/maven-snapshots/</url>
          </snapshotRepository>
-         <snapshotRepository>
+         <repository>
               <id>nexus3</id>
               <name>maven-releases</name>
                   <url>http://137.117.88.166:8081/repository/maven-releases/</url>
-         </snapshotRepository>
+         </repository>
     </distributionManagement>
 </project>
